@@ -1,0 +1,3 @@
+@echo off
+echo Starting FuelAtlas...
+docker-compose up
